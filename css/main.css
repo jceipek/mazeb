@@ -25,3 +25,19 @@ input[type='text']:focus{
  border-radius:30px;
  outline:none;
 }​
+
+.planned-actions {
+	color: white;
+}
+
+.viable {
+	color: cyan;
+}
+
+.not-viable {
+	color: red;
+}
+
+.unknown {
+	color: grey;
+}
